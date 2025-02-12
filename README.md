@@ -92,4 +92,4 @@ Type `yes` to confirm the destruction.
 - The `ami` used in `aws_instance` is specific to the `us-east-1` region. Modify it based on your region availability.
 - Update the `key_name` in `aws_instance` to match your AWS key pair name.
 
-This README provides a step-by-step guide to deploy and manage a simple AWS infrastructure using Terraform, and is for demontration purposes only. For more information, refer to the [Terraform documentation](https://www.terraform.io/docs/index.html).
+This README provides a step-by-step guide to deploy and manage a simple AWS infrastructure using Terraform, and is for demonstration purposes only. For more information, refer to the [Terraform documentation](https://www.terraform.io/docs/index.html).
